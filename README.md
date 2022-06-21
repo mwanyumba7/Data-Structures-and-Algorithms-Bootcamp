@@ -18,3 +18,16 @@
 </p>
 
 This repository contains my Data Structures and Algorithms learning journey all through the DSA Bootcamp by [Lux Tech Academy](https://twitter.com/lux_academy) and [Data Science East Africa](https://twitter.com/DSEAfrica). This journey entails solving coding challenges, having a listening ear to learn from the mentors, writing articles and collaborating with others to ensure a beautiful learning experience. It consists of coding challenges solved weekly. Articles written as I try to learn and explain to the greater tech ecosystem what I have learned, which I believe will also help someone out there. If you like to add or update projects or coding challenges, feel free to open an [issue](https://github.com/mwanyumba7/Data-Structures-and-Algorithms-Bootcamp/issues) and submit a [pull request](https://github.com/mwanyumba7/Data-Structures-and-Algorithms-Bootcamp/pulls). Contributions are very welcome!
+
+## Step by Step : The Weekly Summary
+
+- [Week One](https://github.com/mwanyumba7/Data-Structures-and-Algorithms-Bootcamp/tree/main/Week-One) 👨‍💻
+    - [Coding Challenge](https://github.com/mwanyumba7/Data-Structures-and-Algorithms-Bootcamp/blob/main/Week-One/challenge_two.py) 
+    - [Technical Article](https://dev.to/brayan_kai/introduction-to-data-structures-and-algorithms-with-python-3jhn)
+
+
+## Contribution
+
+Contributions are encouraged and always welcome! If you like to add or update projects and codding challenges, below is how you can:
+
+- Open an issue by selecting one of the provided categories from the [issue page](https://github.com/mwanyumba7/Data-Structures-and-Algorithms-Bootcamp/issues) and fill in the requested information.
